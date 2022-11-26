@@ -13,7 +13,9 @@ Google ARCore XR Plugin - Version 4.2.1
 ```bash
 Unity3D Version - 2021.2.7f1
 ```
+## Tracker Image
 
+![alt text](https://github.com/jackjohnyc/Test-skeleton/raw/main/Assets/ArthrexAR_assignment/Skeleton_marker.jpeg)
 
 ## APK Link
 
