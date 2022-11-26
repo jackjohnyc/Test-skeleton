@@ -1,0 +1,4 @@
+#Sun Nov 27 01:31:10 IST 2022
+base.0=/Users/vr2alitymac/Desktop/UnityProjects/Test skeleton/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

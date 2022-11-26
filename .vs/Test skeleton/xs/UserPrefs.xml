@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{393BA014-5E65-0DEE-34D5-A3CA6D8EB04B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ArthrexAR_assignment/SkeletonManager.cs">
+    <Files>
+      <File FileName="Assets/ArthrexAR_assignment/SkeletonManager.cs" Line="23" Column="1" />
+      <File FileName="Assets/UIManager.cs" Line="10" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5bbf4215-fea8-4137-8fa5-2925f68c318e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
