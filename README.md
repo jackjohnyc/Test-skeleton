@@ -2,6 +2,8 @@
 
 This is an AR Project created in Unity3D Engine. This project was built using the ARFoundation package provided by unity. ARFoundation helps to create apps with AR capability for multiple platforms using one single code base. Used a simple skeleton image as a tracker and added that image to ReferenceImageLibrary component. This component helps to identify and track the given image at runtime. All the scripting was done using C#. Used OOP concepts of classes and objects. Given 2 extra features with the help of Unity UI Buttons. One is to change the material of the 3D Model and another is to auto-rotate the 3D model on the y-axis. Built the app for android and have attached the apk with this repository.
 
+
+
 ## Package dependencies 
 
 ```bash
@@ -16,6 +18,10 @@ Unity3D Version - 2021.2.7f1
 ## Tracker Image
 
 ![alt text](https://github.com/jackjohnyc/Test-skeleton/raw/main/Assets/ArthrexAR_assignment/Skeleton_marker.jpeg)
+
+## Video
+
+https://user-images.githubusercontent.com/14324746/204108243-88b01a66-cb52-4816-a1e8-557143921f80.mp4
 
 ## APK Link
 
