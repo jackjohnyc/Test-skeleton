@@ -17,9 +17,7 @@ Unity3D Version - 2021.2.7f1
 
 ## APK Link
 
-```bash
-import foobar
-```
+[APK](https://github.com/jackjohnyc/Test-skeleton/blob/main/buildv1.apk?raw=true)
 
 ## License
 
